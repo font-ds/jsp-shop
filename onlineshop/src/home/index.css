@@ -1,0 +1,45 @@
+.logo {
+    float: left;
+}
+
+.home-logo {
+    color: white;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.welcome {
+    color: white;
+}
+
+/* .goods {
+    background-color: wheat;
+    display: flex;
+    justify-content: space-around;
+} */
+
+.good-item {
+    width: 250px;
+    height: 320px;
+    /* background-color: lightpink; */
+    float: left;
+    margin: 10px;
+}
+
+.goodImage {
+    width: 250px;
+    height: 280px;
+}
+
+.goodshow {
+    display: block;
+
+    overflow: hidden;
+
+    white-space: nowrap;
+
+    text-overflow: ellipsis;
+    height: 20px;
+}

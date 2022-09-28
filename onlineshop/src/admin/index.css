@@ -1,0 +1,13 @@
+.site-layout-background {
+    background: #fff;
+    height: 90vh;
+}
+
+.admin-logo {
+    color: white;
+}
+
+.table-title {
+    margin-top: 20px;
+    display: flex;
+}
